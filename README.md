@@ -65,7 +65,7 @@ Many of our services let you share information with others. Remember that when y
 Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it - unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
 We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
 Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
-Should you wish to opt-out of our data collection and have your personal identifiable information removed, then email us at info@CheckyPro.com or call us on 1300 306 604.
+Should you wish to opt-out of our data collection and have your personal identifiable information removed, then email us at info@CheckyPro.com .
 
 ## Information we share
 
